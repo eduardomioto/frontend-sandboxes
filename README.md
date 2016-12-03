@@ -13,3 +13,4 @@ Front-End Sandboxes
 | Polymer Sandbox       |  |
 | React Sandbox         |  |
 | Sass Sandbox          |  |
+| TypeScript            |  |
