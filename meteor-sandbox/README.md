@@ -1,6 +1,15 @@
 ##### Introduction
 - This folder will be updated soon. 
-- Priority Order: Not defined
+
+##### Installation
+- On Linux
+```
+curl https://install.meteor.com/ | sh
+```
+
+- On Windows
+- https://install.meteor.com/windows
+
 
 ##### Reference
-- https://code.tutsplus.com/categories/meteor
+- [1] https://www.meteor.com/install
