@@ -8,4 +8,4 @@
 ```
 
 ##### Reference
-- [1]
+- [1] https://learn.jquery.com/about-jquery/how-jquery-works/
