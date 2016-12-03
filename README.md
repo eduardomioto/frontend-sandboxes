@@ -1,14 +1,15 @@
 # frontend-sandboxes
 Front-End Sandboxes
 
-##### Modules
-- angular-sandbox
-- bootstrap-sandbox
-- coffeescript-sandbox	
-- css-sandbox
-- jquery-sandbox
-- less-sandbox
-- meteor-sandbox	
-- polymer-sandbox
-- react-sandbox
-- sass-sandbo
+| Modules               | Description  |
+| -------------         |:-------------|
+| Angular Sandbox       |  |
+| Bootstrap Sandbox     |  |
+| Coffeescript Sandbox  |  |
+| CSS Sandbox           |  |
+| Jquery Sandbox        |  |
+| Less Sandbox          |  |
+| Meteor Sandbox        |  |
+| Polymer Sandbox       |  |
+| React Sandbox         |  |
+| Sass Sandbox          |  |
