@@ -8,6 +8,8 @@
 npm install -g coffee-script
 ```
 
-##### Reference
-- [1] http://coffeescript.org/#installation 
-
+##### Commands
+- Start the CoffeeScript REPL (Ctrl-D to exit, Ctrl-Vfor multi-line):
+```
+coffee 
+```

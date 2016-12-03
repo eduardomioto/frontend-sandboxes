@@ -8,6 +8,10 @@
 npm install -g coffee-script
 ```
 
-##### Reference
-- [1] http://coffeescript.org/#installation 
+##### Commands
+- Concatenate a list of files into a single script:
+```
+coffee --join project.js --compile src/*.coffee
+```
+
 

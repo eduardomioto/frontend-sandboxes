@@ -8,6 +8,8 @@
 npm install -g coffee-script
 ```
 
-##### Reference
-- [1] http://coffeescript.org/#installation 
-
+##### Commands
+- Compile a directory tree of .coffee files in src into a parallel tree of .js files in lib:
+```
+coffee --compile --output lib/ src/
+```

@@ -8,6 +8,8 @@
 npm install -g coffee-script
 ```
 
-##### Reference
-- [1] http://coffeescript.org/#installation 
-
+##### Commands
+- Watch a file for changes, and recompile it every time the file is saved:
+```
+coffee --watch --compile experimental.coffee
+```
